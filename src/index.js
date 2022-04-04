@@ -23,3 +23,8 @@ async function startApolloServer(typeDefs, resolvers) {
 }
 
 startApolloServer(typeDefs, resolvers);
+/*
+APOLLO_KEY=service:gql-training-graph:y7zE5lVn-znaCA3uPXoXJA
+APOLLO_GRAPH_REF=gql-training-graph@current
+APOLLO_SCHEMA_REPORTING=true
+*/
